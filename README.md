@@ -134,23 +134,23 @@ Achieve high accuracy in spam detection
    
 ✅ Requirements
 
-Python installed (v3.7 or above)
+1. Python installed (v3.7 or above)
 
-Jupyter Notebook or any code editor (VS Code, PyCharm, etc.)
+2. Jupyter Notebook or any code editor (VS Code, PyCharm, etc.)
 
-Required libraries: pandas, numpy, matplotlib, scikit-learn (install using pip)
+3. Required libraries: pandas, numpy, matplotlib, scikit-learn (install using pip)
 
-Dataset (if applicable) in .csv format
+4. Dataset (if applicable) in .csv format
 
 💡 Tips
 
-Always check for null/missing values before model training
+1. Always check for null/missing values before model training
 
-Use comments to explain key logic in code
+2. Use comments to explain key logic in code
 
-Start with simple models before applying complex ones
+3. Start with simple models before applying complex ones
 
-Save models using joblib or pickle for reuse
+4. Save models using joblib or pickle for reuse
 
-Regularly visualize data for better insights
+5. Regularly visualize data for better insights
 
