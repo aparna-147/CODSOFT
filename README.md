@@ -131,3 +131,26 @@ Achieve high accuracy in spam detection
 
 
 4. Observe predictions and accuracy reports
+   
+✅ Requirements
+
+Python installed (v3.7 or above)
+
+Jupyter Notebook or any code editor (VS Code, PyCharm, etc.)
+
+Required libraries: pandas, numpy, matplotlib, scikit-learn (install using pip)
+
+Dataset (if applicable) in .csv format
+
+💡 Tips
+
+Always check for null/missing values before model training
+
+Use comments to explain key logic in code
+
+Start with simple models before applying complex ones
+
+Save models using joblib or pickle for reuse
+
+Regularly visualize data for better insights
+
